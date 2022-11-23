@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660348615996",
+    "project_id": "application-2dd9b",
+    "storage_bucket": "application-2dd9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660348615996:android:be14ae93ae6079fd73f239",
+        "android_client_info": {
+          "package_name": "thanhtung.example.firebase_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660348615996-7kpse2tc5lpim1966i5c0resefkmmjqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr-HkOX4B5eoFJlEVqOhicGjPFvE8xZAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660348615996-7kpse2tc5lpim1966i5c0resefkmmjqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
